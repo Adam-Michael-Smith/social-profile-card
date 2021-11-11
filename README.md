@@ -1,4 +1,4 @@
 # Social Profile Card
 Social profile card challenge completed from Frontend Mentor.
 
-Visit site @: https://adammichaelsmith1994.github.io/social-profile-card/
+Visit site @: https://adam-michael-smith.github.io/social-profile-card/
